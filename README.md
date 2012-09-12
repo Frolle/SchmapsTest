@@ -1,0 +1,4 @@
+SchmapsTest
+===========
+
+Test av Schmaps
